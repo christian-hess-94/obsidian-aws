@@ -1,1 +1,7 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "files",
+  "showLineNumber": true,
+  "trashOption": "local",
+  "newFileLocation": "current"
+}

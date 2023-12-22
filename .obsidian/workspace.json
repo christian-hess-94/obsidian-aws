@@ -4,18 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "6c888252b04d0627",
+        "id": "3ba0c9ce2c7ea580",
         "type": "tabs",
         "children": [
           {
-            "id": "4f5051a461496cad",
+            "id": "db7e4ce60b9b4bea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Services/Cloudwatch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3ea223925e21a7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/us-east-1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88707b478887b365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/us-east-1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1d6f76d95273d87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Regions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a70a6b98d8f3469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/AWS Management console.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecf725d5b4b4acab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/AWS Management console.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "331877d4a06356c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/root user.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4183e7e9cbe34ca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Services/Cloudwatch.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -44,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#no_content",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Services/Cloudwatch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Services/Cloudwatch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Services/Cloudwatch.md"
+              }
             }
           }
         ]
@@ -138,8 +231,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f5051a461496cad",
+  "active": "4183e7e9cbe34ca5",
   "lastOpenFiles": [
+    "Services/Services MOC.md",
+    "Services/AWS Support.md",
+    "Services/Cloudwatch.md",
+    "Concepts/IAM users.md",
+    "Concepts/root user.md",
+    "Concepts/AWS Management console.md",
+    "Concepts/Concepts MOC.md",
+    "Concepts/Regions.md",
+    "files/Pasted image 20231222182428.png",
+    "files",
+    "docs",
+    "Concepts/us-east-1.md",
+    "2023-12-22.md",
+    "Template/{{title}}.md",
+    "Support.md",
+    "Concepts",
+    "Services",
+    "AWS.md",
+    "Template",
     "Test.txt",
     "Novo(a) Documento de Texto.txt"
   ]
